@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-cayman
+title: Welcome to L's homepage!
+description: Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/liuhy-haplox/github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,6 +16,13 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
 
 - Bulleted
 - List
